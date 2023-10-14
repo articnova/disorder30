@@ -21,7 +21,7 @@
     },
     "matrix_pins": {
         "cols": [ "F4", "F5", "F6", "F7", "B1", "B3", "B2", "E6", "D7", "C6" ],
-        "rows": [ "D2", "B4", "B5", "B6" ]
+        "rows": [ "D5", "B4", "B5", "B6" ]
     },
     "encoder": {
         "rotary": [
